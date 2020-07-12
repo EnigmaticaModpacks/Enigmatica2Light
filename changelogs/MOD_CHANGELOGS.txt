@@ -1,0 +1,3 @@
+Enigmatica2Light 1.3.3 to Enigmatica2Light 1.3.4
+
+* Generated using https://github.com/TheRandomLabs/ChangelogGenerator (1.15.1)
