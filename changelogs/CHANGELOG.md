@@ -1,3 +1,16 @@
+## Enigmatica 2: Light v1.5.0
+
+*Using Forge-1.12.2-14.23.5.2854*
+
+**Changes**
+
+- A whole bunch of mod updates.
+
+**Bug fixes**
+
+- Server files being unable to download Forge
+- Probably other things :D
+
 ## Enigmatica 2: Light v1.4.5
 
 *Using Forge-1.12.2-14.23.5.2847*
